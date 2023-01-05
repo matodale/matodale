@@ -1,4 +1,4 @@
-# Web Front-end , Back-end를 배우는 신입 개발자 입니다.
+## Web Front-end , Back-end를 배우는 신입 개발자 입니다.
 ## 박철호
 
 HTML/CSS/Javascript : 웹 표준 준수와 자바스크립트 활용을 한 홈페이지 개발, 반응형 웹 홈페이지 제작<br>
