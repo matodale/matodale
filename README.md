@@ -7,4 +7,10 @@
 - 정보처리기사 2022년 11월 취득 
 - 기본 프로그래밍 언어 : C , Java , python 
 ---
-
+### 업로드 프로젝트 내용 설명
+- appleMobileWeb : Figma를 활용한 모바일 페이지
+- TestMEGABOX : 웹표준과 반응형 홈페이지 제작
+- studyJava : 정보처리기사에서의 기본 자바 공부
+- studyPython : 정보처리기사에서의 기본 python 공부 내용
+- studyJSP : JSP 서적으로 공부, 직접 손코딩과 테스트 시현 완료
+- studySpringBoot : 전자정부 프레임워크 활용, 스프링에 대하여 공부
