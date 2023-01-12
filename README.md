@@ -17,7 +17,7 @@
 - *업로드 예정* : "코딩 자율 학습" 서적, "반응형 퍼블리싱" , "자바스크립트 활용" Web 제작 완료
 ---
 ### 개발 환경 세팅
-- MAC OS 
+- MAC OS , window 10
 - Java : jdk1.8.0_351.jdk
 - python 3.9.7 (Anaconda Tool 활용)
 - 활용 Tool : eclipse, VScode
