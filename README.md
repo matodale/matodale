@@ -16,6 +16,7 @@
 - studySpringBoot : *전자정부 프레임워크 활용과 일반게시판 기본 완성, 회원 관리 프로그램, JSTL 활용* (2023년 01월~ 2023년 02월 01일자 완료)
 - "코딩 자율 학습" 서적, "반응형 퍼블리싱" , "자바스크립트 활용" Web 제작 완료
 - "예제로 배우는 스프링 부트", "비전공자를 위한 첫 코딩 첼린지" 서적 참고
+- nexacroSpringBoot 차세대 정보시스템 KIGAM 프로젝트, nexacro FrameWork를 이용하여 자주 쓰는 메소드나 SQL문을 정리함.
 ---
 ### 개발 환경 세팅
 - MAC OS , window 11
@@ -24,3 +25,4 @@
 - 활용 Tool : eclipse, VScode
 - DB : Mysql 8.0.31
 - photoshop 2023, figma
+- nexacro17, tomcat 9.0, EgovFrameWork 3.10.0, Oracle19(DBBeaver deloverTool use)
